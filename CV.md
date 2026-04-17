@@ -15,6 +15,7 @@
 - Réalisation d'audits de vulnérabilités et tests d'intrusion
 - Analyse de surface d'attaque, compromission de données et durcissement des environnements Active Directory
 - Rédaction de rapports de remédiation et restitution stratégique auprès des décideurs
+- Installation et supervision de Bitdefender Endpoint Detection and Response 
 
 #### 🔄 Migrations
 - Pilotage complet de migrations Exchange vers Microsoft 365 via BitTitan : audit de l'existant, configuration du tenant, préparation des utilisateurs et déploiement final sur postes de travail
@@ -48,6 +49,7 @@
 
 #### 🔐 Sécurité & Audit
 - Audit de sécurité interne et externe : détection de failles critiques, analyse de la robustesse des politiques d'authentification et accompagnement à la mise en conformité
+- Installation et supervision de Eset Node32
 
 #### 🔄 Migrations
 - Pilotage complet de migrations Exchange vers Microsoft 365 via BitTitan/CodeTwo : audit de l'existant, configuration du tenant, préparation des utilisateurs et déploiement final sur postes de travail
@@ -88,6 +90,7 @@
 #### ✅ Conformité & Sécurité
 - Maintien en conformité réglementaire selon les exigences de la norme ISO 15189 (COFRAC)
 - Sécurisation des postes des secrétaires médicales accueillant du public
+- Installation, configuration de l'EDR SentinelOne
 - Séparation des réseaux pour les automates de biologie
 
 #### 🖨️ Matériel & Téléphonie
@@ -112,6 +115,8 @@
 - Participation à la transformation interne d'Adista et à la mise en conformité 
   ISO 27001 de l'ensemble des outils et processus
 - Expérience des environnements HDS (Hébergement de Données de Santé)
+- Installation, configuration de l'EDR SentinelOne
+- Formation SentinelOne
 
 #### 🔄 Migrations & Domaines
 - Migrations de messagerie vers Microsoft 365 depuis des environnements hétérogènes :
@@ -140,3 +145,15 @@
 - Rédaction et maintien des Dossiers d'Exploitation (DEX) par client
 
 ---
+
+### 2018 - 2021 - Technicien informatique · CHU de Saint-Étienne
+
+**Typologie de clients :** Les sites du CHU de  Saint-Étienne 
+**Environnements :** Windows Server & Desktop
+---
+### 2018 - 2021 - Technicien informatique / Responsable d’équipe · AGTEC
+
+**Typologie de clients :** TPE, PME, libéral, écoles privées, MFR, CDG 30, CDG 34   
+**Environnements :** Hyper-V, VMware, Windows Server & Desktop, Linux, OSX
+---
+### 2018 - 2021 - Fondateur · SiliciumPC
