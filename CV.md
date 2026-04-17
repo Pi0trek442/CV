@@ -1,4 +1,4 @@
-# CV — Administrateur Systèmes / Auditeur Sécurité
+# CV - Administrateur Systèmes / Auditeur Sécurité
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-### Depuis 2023 — Administrateur Systèmes / Auditeur Sécurité · JL-Systems
+### Depuis 2023 - Administrateur Systèmes / Auditeur Sécurité · JL-Systems
 
 **Typologie de clients :** TPE, PME, libéral, collectivités territoriales, écoles publiques  
 **Environnements :** Hyper-V, VMware, Windows Server & Desktop, Linux, OSX
@@ -17,8 +17,8 @@
 - Rédaction de rapports de remédiation et restitution stratégique auprès des décideurs
 
 #### 🔄 Migrations
-- Pilotage complet de migrations Exchange vers Microsoft 365 via BitTitan : audit de l'existant, configuration du tenant, préparation des utilisateurs et déploiement final
-- Projets de migration et durcissement des flux mail
+- Pilotage complet de migrations Exchange vers Microsoft 365 via BitTitan : audit de l'existant, configuration du tenant, préparation des utilisateurs et déploiement final sur postes de travail
+- Réalisation de projets de migration et de durcissement des flux mail.
 
 #### 💾 Sauvegarde
 - Mise en place de solutions Veeam Backup & Replication
@@ -34,10 +34,14 @@
 #### 🎓 Formation & Sensibilisation
 - Conception de supports et animation de sessions de formation
 - Vulgarisation et animation de sessions de sensibilisation à la cybersécurité en public
+- Réalisation de tutoriels vidéo mis sur YouTube pour aider les utilisateurs
+
+#### 📄 Documentation
+- Rédaction et maintien des Dossiers d'Exploitation / Dossier d'Architecture Technique par client : inventaire infrastructure, procédures d'intervention et contacts d'escalade.
 
 ---
 
-### 2022 – 2023 — Administrateur Systèmes / Responsable Opérationnel de Compte · 2IT
+### 2022 – 2023 - Administrateur Systèmes / Responsable Opérationnel de Compte · 2IT
 
 **Typologie de clients :** TPE, PME, libéral, hôpitaux, écoles privées  
 **Environnements :** Hyper-V, VMware, Windows Server & Desktop, Linux, OSX
@@ -46,8 +50,8 @@
 - Audit de sécurité interne et externe : détection de failles critiques, analyse de la robustesse des politiques d'authentification et accompagnement à la mise en conformité
 
 #### 🔄 Migrations
-- Pilotage complet de migrations Exchange vers Microsoft 365 via BitTitan/CodeTwo : audit de l'existant, configuration du tenant, préparation des utilisateurs et déploiement final
-- Projets de migration et durcissement des flux mail
+- Pilotage complet de migrations Exchange vers Microsoft 365 via BitTitan/CodeTwo : audit de l'existant, configuration du tenant, préparation des utilisateurs et déploiement final sur postes de travail
+- Réalisation de projets de migration et de durcissement des flux mail.
 
 #### 💾 Sauvegarde
 - Mise en place de solutions Veeam Backup & Replication, avec GFS et réplication VCC (Veeam Cloud Connect)
@@ -64,9 +68,15 @@
 - Installation et configuration de MFP Ricoh et Kyocera (scan-to-mail, scan-to-folder, impressions sécurisées)
 - Installation et configuration de solution GED avec Zeendoc
 
+#### 🎓 Formation & Sensibilisation
+- Réalisation de tutoriels vidéo mis sur YouTube pour aider les utilisateurs
+
+#### 📄 Documentation
+- Rédaction et maintien des Dossiers d'Exploitation / Dossier d'Architecture Technique par client : inventaire infrastructure, procédures d'intervention et contacts d'escalade.
+
 ---
 
-### 2021 — Administrateur Systèmes · Anabioqual (6 sites)
+### 2021 - Administrateur Systèmes · Anabioqual (6 sites)
 
 **Typologie de clients :** Laboratoire d'analyses médicales  
 **Environnements :** Hyper-V, VMware, Windows Server & Desktop, Linux
@@ -87,5 +97,46 @@
 
 #### 🌐 Divers
 - Gestion et mise à jour régulière du site internet
+
+---
+
+### 2018 - 2021 - Chargé de commandes IT / Projets clients · Adista
+
+**Typologie de clients :** PME, ETI, Collectivités  
+**Environnements :** Hyper-V, VMware, Windows Server & Desktop, Linux
+
+#### 🔐 Sécurité & Conformité
+- Sécurisation des infrastructures hébergées via proxy ARR
+- Déploiement et administration de solutions Anti-Spam Barracuda (onboarding clients)
+- Mise en place de certificats SSL (Let's Encrypt et autres)
+- Participation à la transformation interne d'Adista et à la mise en conformité 
+  ISO 27001 de l'ensemble des outils et processus
+- Expérience des environnements HDS (Hébergement de Données de Santé)
+
+#### 🔄 Migrations & Domaines
+- Migrations de messagerie vers Microsoft 365 depuis des environnements hétérogènes :
+  Exchange On-Premise, Exchange Online (inter-tenant), Alinto, IMAP/OVH
+- Création et migration de noms de domaine
+- Transfert de sites internet clients vers les espaces d'hébergement mutualisés
+
+#### 💾 Sauvegarde
+- Définition des politiques de sauvegarde avec les clients
+- Mise en œuvre de sauvegardes sur bandes et dans le cloud
+
+#### 🌐 Hébergement & Infrastructure IaaS
+- Création d'espaces d'hébergement web mutualisés sur Linux
+- Rédaction de scripts YAML et déploiement via Ansible
+- Conception d'infrastructures complètes sur hébergement IaaS :
+  fermes RDS avec RDS Gateway et Broker
+- Configuration de clients légers Axel et HP pour connexion aux fermes RDS
+
+#### 🖥️ Exploitation & Outils
+- Prise en main à distance via Remote Desktop Manager
+- Gestion de parc et documentation via GLPI
+- Rédaction et maintien des Dossiers d'Exploitation (DEX) par client :
+  inventaire infrastructure, procédures d'intervention et contacts d'escalade
+
+#### 📄 Documentation
+- Rédaction et maintien des Dossiers d'Exploitation (DEX) par client
 
 ---
