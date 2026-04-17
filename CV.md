@@ -150,10 +150,14 @@
 
 **Typologie de clients :** Les sites du CHU de  Saint-Étienne 
 **Environnements :** Windows Server & Desktop
+
 ---
+
 ### 2018 - 2021 - Technicien informatique / Responsable d’équipe · AGTEC
 
 **Typologie de clients :** TPE, PME, libéral, écoles privées, MFR, CDG 30, CDG 34   
 **Environnements :** Hyper-V, VMware, Windows Server & Desktop, Linux, OSX
+
 ---
+
 ### 2018 - 2021 - Fondateur · SiliciumPC
