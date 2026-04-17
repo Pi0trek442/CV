@@ -148,7 +148,7 @@
 
 ### 2018 - 2021 - Technicien informatique · CHU de Saint-Étienne
 
-**Typologie de clients :** Les sites du CHU de  Saint-Étienne 
+**Typologie de clients :** Les sites du CHU de Saint-Étienne  
 **Environnements :** Windows Server & Desktop
 
 ---
@@ -160,4 +160,4 @@
 
 ---
 
-### 2018 - 2021 - Fondateur · SiliciumPC
+### 2008 - 2012 - Fondateur · SiliciumPC
