@@ -146,18 +146,74 @@
 
 ---
 
-### 2018 - 2021 - Technicien informatique · CHU de Saint-Étienne
+### 2016 - 2018 - Technicien informatique · CHU de Saint-Étienne
 
 **Typologie de clients :** Les sites du CHU de Saint-Étienne  
 **Environnements :** Windows Server & Desktop
 
+#### 🎧 Support & Helpdesk
+- Centre d'appel de support niveau 1/2, interlocuteurs variés :
+  infirmières, médecins, radiologues - adaptation du discours selon le profil
+- Prise en main à distance via PSEXEC : diagnostic des services,
+  fermeture de processus, exécution d'applications à distance
+- Gestion des outils métiers spécifiques : logiciels de dictée,
+  visionneuses DICOM pour la radiologie
+- Respect strict des règles d'hygiène et protocoles de service
+  (radiologie, réanimation, etc.)
+
+#### 🖥️ Gestion des postes & Déploiement
+- Migrations et déploiements de postes via MDT et WDS
+- Gestion des mises à jour collectives via WSUS et SCCM
+
+#### 👥 Gestion des utilisateurs & Droits
+- Gestion des comptes, droits d'accès, dossiers personnels et partagés
+- Administration de la messagerie Microsoft 365 :
+  création de messages d'absence, gestion des boîtes aux lettres
 ---
 
-### 2018 - 2021 - Technicien informatique / Responsable d’équipe · AGTEC
+### 2012 - 2016 - Technicien informatique / Responsable d’équipe · AGTEC
 
 **Typologie de clients :** TPE, PME, libéral, écoles privées, MFR, CDG 30, CDG 34   
 **Environnements :** Hyper-V, VMware, Windows Server & Desktop, Linux, OSX
 
+#### 🏗️ Infrastructure & Serveurs
+- Installation et configuration de Windows Server, création et administration d'Active Directory, gestion des utilisateurs et des partages de fichiers
+- Déploiement de Proxmox avec installation et configuration d'Ubuntu Server :
+  pare-feu, serveur DHCP
+- Mise en place de sauvegardes avec Cobian Backup
+
+#### 🖥️ Déploiement & Masters
+- Création de masters Windows avec Sysprep, en concertation avec les enseignants
+- Déploiement des masters via Clonezilla sur les postes du parc
+- Paramétrage des tablettes Samsung : définition et déploiement des applications par établissement
+
+#### 🔒 Filtrage & MDM
+- Formation et déploiement de la solution Edutice (Novatice Technologies) :
+  MDM de filtrage et gestion de flotte PC/tablettes en milieu scolaire
+- Intégration des utilisateurs (enseignants et élèves) pour une connexion autonome
+
+#### 🖨️ Matériel & Impression
+- Installation et configuration de MFP Sagem et Ricoh :
+  impressions sécurisées, scan-to-folder, scan-to-mail
+
+#### 🎓 Formation & Encadrement
+- Formation des utilisateurs : enseignants, formateurs, chefs d'établissement
+- Responsable d'équipe : encadrement des techniciens
 ---
 
 ### 2008 - 2012 - Fondateur · SiliciumPC
+**Statut :** Entrepreneur Individuel  
+**Typologie de clients :** Particuliers et petits professionnels
+
+#### 🔧 Prestations Techniques
+- Montage de PC sur mesure : conseil, sélection des composants et assemblage selon les besoins du client
+- Réparation matérielle multi-supports : PC fixes, PC portables, consoles de jeu, téléphones
+- Installation et configuration de Windows Desktop
+- Intégration de postes et serveurs dans des réseaux existants
+- Déploiement d'infrastructures simples pour clients professionnels
+
+#### 🎓 Formation & Accompagnement
+- Formation et accompagnement de particuliers à l'utilisation de leurs équipements informatiques
+
+#### 🏢 Gestion de l'activité
+- Gestion complète d'une activité indépendante : relation client, devis, facturation et suivi des prestations
