@@ -10,7 +10,6 @@
 - 📄 Rédaction de documents d'exploitation
 - ...
 - 👉 [Consulter mon CV](./CV.md)
----
 
 ### 🌍 Me retrouver
 
